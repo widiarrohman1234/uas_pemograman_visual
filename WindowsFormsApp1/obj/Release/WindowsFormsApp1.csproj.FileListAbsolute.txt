@@ -1,0 +1,17 @@
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Home.resources
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Login.resources
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Product.resources
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.User.resources
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.manifest
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.application
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+C:\xampp\htdocs\kuliah\semester8\pemograman_visual\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
