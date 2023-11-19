@@ -8,8 +8,8 @@ Aplikasi CRUD dengan 3 tabel yaitu user, product dan tranx menggunakan bahasa C#
 ## Restore Database
 `project_uas.bak` adalah backup file database SQL server.
 
-![restore_database](/restore-database.gif)
+![sedang loading gif restore database, tunggu dulu](/restore-database.gif)
 
 ## Hasil Aplikasi
 Hasil aplikasi
-![hasil_aplikasi](/hasil_aplikasi.gif)
+![sedang loading gif hasil aplikasi, tunggu dulu](/hasil_aplikasi.gif)
